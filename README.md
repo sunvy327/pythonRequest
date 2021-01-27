@@ -8,3 +8,8 @@ Currently have been documented details from these links:
  
  
  If found more, I will update soon. 
+
+
+Instructions: 
+
+pip3 install -r requirements.txt
